@@ -3,7 +3,7 @@ A visually appealing single-page perfume website with smooth hover effects, sear
 
 ![Preview](preview.jpg)
 
-[![Watch Video](https://drive.google.com/file/d/1WhISL-PQk7-ZwmriVTQiqSBPbgUsn9t3/view?usp=drivesdk)](https://drive.google.com/file/d/1IrjcOBF9S_KYsWbW9vsAhmJCk9t2Nacs/view?usp=drivesdk)
+[![Watch Demo](preview.png)](https://drive.google.com/file/d/1IrjcOBF9S_KYsWbW9vsAhmJCk9t2Nacs/view?usp=drivesdk)
 
 
 
